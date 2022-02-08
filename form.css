@@ -1,0 +1,14 @@
+/* .contact{
+    margin: 70px;
+    border: 1px solid black;
+} */
+h1{
+    padding: 20px;
+    text-align: center;
+}
+legend{
+    padding: 3px 6px;
+}
+p{
+    text-align: center;
+}
